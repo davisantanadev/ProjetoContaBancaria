@@ -8,12 +8,12 @@ Um projeto em C# que simula um sistema bancário simples com contas correntes e 
 - `Projeto_ContaBancaria.csproj` - projeto principal da aplicação.
 - `README.md` - documentação de execução.
 
-## Como executar a aplicação
+## Como executar a aplicação (Caso utilize o VS Code)
 
 Abra o terminal no diretório `Projeto_ContaBancaria\ProjetoContaBancaria` e execute:
 
 ```powershell
-cd "c:\Users\lldav\OneDrive\Área de Trabalho\ProjetoMontreal\Projeto_ContaBancaria\ProjetoContaBancaria"
+cd Projeto_ContaBancaria/ProjetoContaBancaria
 dotnet run
 ```
 
