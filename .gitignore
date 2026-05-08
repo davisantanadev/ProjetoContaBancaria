@@ -1,7 +1,13 @@
 bin/
 obj/
+**/bin/
+**/obj/
+
+.vs/
+.vscode/
 *.user
 *.suo
-*.vs
+*.userosscache
+*.sln.docstates
 *.db
 
